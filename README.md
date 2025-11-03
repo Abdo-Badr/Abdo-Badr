@@ -10,13 +10,13 @@
 ---
 
 ### 🚀 **About Me**
-- 🎓 Bachelor of Computer Science & Artificial Intelligence, **Benha University**  
-- 🧠 Passionate **DevOps Engineer** with a focus on automation, scalability, and CI/CD efficiency  
-- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, and **Linux server management**  
-- ⚙️ Experienced with **Terraform**, **Ansible**, **Jenkins**, and **GitHub Actions** for IaC & CI/CD  
-- 📊 Proficient with **monitoring tools** like **Prometheus**, **Grafana**, and **AWS CloudWatch**  
-- 💡 Enthusiastic about **Cloud-Native Development**, **System Reliability**, and **Open-Source Projects**  
-- 🤝 Always open to **collaborations** and **community learning**  
+- 🎓 Bachelor of Computer Science & Artificial Intelligence — **Benha University**  
+- 🧠 Passionate **DevOps Engineer** focused on automation, scalability, and CI/CD  
+- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, and **Linux Server Management**  
+- ⚙️ Experienced with **Terraform**, **Ansible**, **Jenkins**, and **GitHub Actions**  
+- 📊 Familiar with **Prometheus**, **Grafana**, and **CloudWatch** for monitoring  
+- 🤝 Open to **Cloud-Native**, **DevOps**, and **Open-Source** collaborations  
+- ⚡ Always exploring new technologies to **automate and optimize systems**
 
 📄 **[View My CV](https://drive.google.com/drive/folders/109yl7wir1e0wHXJN-pta279rlR_vfmv1)**  
 
@@ -39,29 +39,61 @@
 
 ### 🛠️ **Languages & Tools**
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare&perline=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare&perline=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare&perline=10" />
+  </picture>
+</p>
+
+---
+
+### 🧩 **DevOps Pipeline (CI/CD Flow)**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea1d6f76-61ef-4e54-a3a7-bc6d733909d0" width="700" alt="DevOps Pipeline Animation" />
+</p>
+
+<p align="center">
+  <i>Code → Build → Test → Deploy → Monitor → Feedback → Improve 🚀</i>
 </p>
 
 ---
 
 ### 📊 **GitHub Analytics**
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Badr&layout=compact&theme=highcontrast" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=default">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Badr&layout=compact&theme=highcontrast">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Badr&layout=compact&theme=default">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Badr&layout=compact&theme=highcontrast" />
+  </picture>
 </p>
 
 ---
 
 ### 🔥 **Contribution Streak**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdo-Badr&theme=highcontrast&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abdo-Badr&theme=highcontrast&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abdo-Badr&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Abdo-Badr&theme=highcontrast&hide_border=true" />
+  </picture>
 </p>
 
 ---
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
