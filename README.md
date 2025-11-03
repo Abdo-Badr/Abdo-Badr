@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulrahman--badr/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Abdulrahman%20Badr;Software%20Engineer%20%7C%20DevOps%20Engineer;Python%20SDeveloper;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Abdulrahman%20Badr;Software%20Engineer%20%7C%20DevOps%20Engineer;Python%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
 </a>
   <br><br>
  <!-- <a href="" target="_blank" rel="noopener noreferrer">🚀 My First Project — Trend</a>
@@ -41,8 +41,7 @@
 
 ### `🛠️ Languages & Tools`
 
-  <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,python,html,css,js,ts,react,angular,bootstrap,tailwind,sqlserver,mysql,postgres,mongodb,git,github,docker,kubernetes,azure,aws,postman,visualstudio,vscode,figma"/>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare"/>
 </p>
 
 
