@@ -1,58 +1,69 @@
-<h1 align="center">Hi, I'm Abdulrahman Mohamed Ali Badr</h1>
-
-<h2 align="center">Software Engineer | DevOps Engineer | Python Developer</h2>
-<br>
+<h1 align="center">👋 Hi, I'm Abdulrahman Mohamed Ali Badr</h1>
+<h3 align="center">💻 Software Engineer | 🚀 DevOps Engineer | 🐍 Python Developer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdulrahman--badr/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Abdulrahman%20Badr;Software%20Engineer%20%7C%20DevOps%20Engineer;Python%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
-</a>
-  <br><br>
- <!-- <a href="" target="_blank" rel="noopener noreferrer">🚀 My First Project — Trend</a>
-  &nbsp; | &nbsp;
-  <a href="" target="_blank" rel="noopener noreferrer">🚀 My Second Project — Bootstrap</a>-->
+  <a href="https://www.linkedin.com/in/abdulrahman--badr/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;I'm+Abdulrahman+Badr;Software+Engineer+%7C+DevOps+Engineer;Python+Developer+%7C+Cloud+Enthusiast;Always+Learning+New+Things+💡" alt="Typing SVG" />
+  </a>
 </p>
 
+---
 
-### `🚀 About Me`
-- 🎓 Bachelor of Computer science and Artificial intelligence **Benha University**  
-- 🧠 Passionate **DevOps Engineer** focused on automating infrastructure and optimizing CI/CD pipelines
-- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, and **Linux server management** 
-- 🔧 Experienced with **Terraform**, **Ansible**, and **Jenkins** for infrastructure automation and continuous delivery  
-- 📊 Familiar with **monitoring and observability tools** like **Prometheus**, **Grafana**, and **CloudWatch**
-- 🤝 Open to collaborating **on DevOps**, **cloud-native**, and **open-source** projects
-- ⚡ Dedicated to improving **system reliability**, **deployment efficiency**, and **team collaboration**
-  
+### 🚀 **About Me**
+- 🎓 Bachelor of Computer Science & Artificial Intelligence, **Benha University**  
+- 🧠 Passionate **DevOps Engineer** with a focus on automation, scalability, and CI/CD efficiency  
+- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, and **Linux server management**  
+- ⚙️ Experienced with **Terraform**, **Ansible**, **Jenkins**, and **GitHub Actions** for IaC & CI/CD  
+- 📊 Proficient with **monitoring tools** like **Prometheus**, **Grafana**, and **AWS CloudWatch**  
+- 💡 Enthusiastic about **Cloud-Native Development**, **System Reliability**, and **Open-Source Projects**  
+- 🤝 Always open to **collaborations** and **community learning**  
 
-### [📄 View My CV](https://drive.google.com/drive/folders/109yl7wir1e0wHXJN-pta279rlR_vfmv1)
+📄 **[View My CV](https://drive.google.com/drive/folders/109yl7wir1e0wHXJN-pta279rlR_vfmv1)**  
 
+---
 
-
-### `📤 Contact & Social`
-  <p align="left">
-    <a href="mailto:abdulrahmanbadr2002@outlook.com"> <!-- Gmail -->
-      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/abdulrahman--badr/"> <!-- LinkedIn Profile -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
-    </a>&nbsp;
-  
-  </p>
-
-### `🛠️ Languages & Tools`
-
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare"/>
+### 🌐 **Connect With Me**
+<p align="center">
+  <a href="mailto:abdulrahmanbadr2002@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrahman--badr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abdo-Badr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+---
 
-
-### `🔥 Streak`
-<p align="left">
-  <!-- GitHub Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdo-Badr&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
+### 🛠️ **Languages & Tools**
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,linux,git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,nginx,prometheus,grafana,helm,vscode,visualstudio,postman,cloudflare&perline=10" />
 </p>
 
+---
 
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
-  </p>
+### 📊 **GitHub Analytics**
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Badr&layout=compact&theme=highcontrast" />
+</p>
+
+---
+
+### 🔥 **Contribution Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdo-Badr&theme=highcontrast&hide_border=true" />
+</p>
+
+---
+
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+⭐️ *“Automate everything, learn continuously, and build systems that scale.”*
