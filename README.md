@@ -18,7 +18,7 @@
 - 💡 Enthusiastic about **Cloud-Native Development**, **System Reliability**, and **Open-Source Projects**  
 - 🤝 Always open to **collaborations** and **community learning**  
 
-📄 **[View My CV](https://drive.google.com/drive/folders/109yl7wir1e0wHXJN-pta279rlR_vfmv1)**  
+📄 **[View My CV](https://drive.google.com/file/d/1synUmBbowcCwWkUKinU6SdMu92cC82H_/view?usp=sharing)**  
 
 ---
 
