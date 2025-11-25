@@ -43,7 +43,7 @@
 
 ### 📊 **GitHub Analytics**
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast&hide=languages&count_private=true&token=ISHARA" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast&cache_seconds=1800" />
 </p>
 
 ---
