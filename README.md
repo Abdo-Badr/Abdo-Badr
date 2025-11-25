@@ -57,7 +57,7 @@
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast&hide=languages&count_private=true&token=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" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdo-Badr&show_icons=true&theme=highcontrast&hide=languages&count_private=true&token=ishara"/>
 </p>
 
 ---
